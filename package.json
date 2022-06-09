@@ -1,7 +1,7 @@
 {
   "name": "aula16",
   "version": "1.0.0",
-  "description": "",
+  "description": "banco",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,5 +18,13 @@
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.20.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iorgeAnjos/banco-de-dados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iorgeAnjos/banco-de-dados/issues"
+  },
+  "homepage": "https://github.com/iorgeAnjos/banco-de-dados#readme"
 }
